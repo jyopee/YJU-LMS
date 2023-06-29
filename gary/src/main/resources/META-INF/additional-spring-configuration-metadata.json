@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spirng.mvc.view.prefix",
+  "type": "java.lang.String",
+  "description": "A description for 'spirng.mvc.view.prefix'"
+}]}
